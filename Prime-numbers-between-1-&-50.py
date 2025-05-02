@@ -7,3 +7,4 @@ for num in range(2, 51):
                 break
         else:
             print(num)
+            
