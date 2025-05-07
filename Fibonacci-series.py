@@ -1,3 +1,4 @@
+#to print fibonacci series
 print("Fibonacci series:")
 n = 10
 f1 = 0
