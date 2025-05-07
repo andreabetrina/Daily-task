@@ -1,3 +1,4 @@
+# to find the GCD of 2 numbers.
 a = 10
 b = 26
 
