@@ -9,4 +9,3 @@ def factorial (n):
 n =10
 fact= factorial(n)
 print ( "The Factorial is",fact )
-
