@@ -6,3 +6,5 @@ for ch in str:
      if ch not in vowels:
           emptystr += ch
 print ( str ,":" ,emptystr )
+
+
