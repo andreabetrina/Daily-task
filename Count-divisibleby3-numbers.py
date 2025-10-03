@@ -7,3 +7,4 @@ for i in range( 1 , 101 ):
 print(cnt , " numbers are divisible by 3 between 1 and 100")
 
 
+
