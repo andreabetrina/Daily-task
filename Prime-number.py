@@ -10,4 +10,3 @@ if cnt == 0:
 else:
     print( n, " is not a Prime number" )
 
-
