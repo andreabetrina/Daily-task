@@ -7,3 +7,4 @@ while cnt < exp :
      r = r * b
      cnt = cnt +1
 print( b ,"^", exp ,"=", r)
+
